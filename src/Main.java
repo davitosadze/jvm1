@@ -24,5 +24,6 @@ public class Main {
         }
 
         System.out.print(name + " " + lastname + " თქვენ ხართ " + sexString + " " + year + " წელს დაბადებული");
+        // Davit Osadze
     }
 }
